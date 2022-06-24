@@ -1,0 +1,28 @@
+#coupon{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background:linear-gradient(rgb(173, 173, 247),skyblue);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: 20%;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    
+}
+button{
+    background:linear-gradient(rgb(173, 173, 247),skyblue) ;
+}
